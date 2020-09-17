@@ -17,3 +17,6 @@ https://docs.microsoft.com/en-us/learn/
 
 Own past content:
 https://github.com/Dream-Min-G/MSA-P1-Data
+
+Reddit - Starbucks subreddit
+https://www.reddit.com/r/starbucks/
